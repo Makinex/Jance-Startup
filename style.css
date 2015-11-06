@@ -1,0 +1,221 @@
+
+	#header  {
+		margin:auto;
+		width:800px;
+		height:1224px;
+		position:relative;
+		border:4px solid blue;
+		
+		
+		}
+.backgr img{
+		
+		
+		margin:auto;
+		width:800px;
+		height:1224px;
+		position:relative;
+		border:4px solid yellow;
+		
+		
+	}
+	.logo {
+		position:relative;
+		top:-1224px;
+		margin:auto;
+		margin-left:1px;
+		
+		border:4px solid black;
+		height:0px;
+		width:0px;
+		
+		
+		
+	
+}
+	.logo img{
+		
+		width:248px;
+		height:152px;
+		
+		border:4px solid green;
+		
+		
+		
+}
+
+	#menu {
+		
+		position:relative;
+		top:-980px;
+		height:50px;
+		width:701px;
+		margin-left:55px;
+		border:2px solid black;
+		
+		
+	}
+	.menu img {
+		margin-left:0px;
+		height:53px;
+		width:704px;
+		
+	}
+	
+	#table{
+		
+		height:15px;
+		width:701px;
+		
+		position:relative;
+		top:-39px;
+		border:2px solid white;
+		margin-left:0px;
+	}
+	.inic a{
+		
+		border:2px solid black;
+		margin-left:55px;
+		text-decoration:none;
+		color:White;
+		font-family:Verdana, sans-serif, arial, serif;
+	}	
+	.cat a {
+		position:relative;
+		border:2px solid black;
+		top:-20px;
+		margin-left:215px;
+		text-decoration:none;
+		color:White;
+		font-family:Verdana, sans-serif, arial, serif;
+		
+	}
+	.cons a {
+		position:relative;
+		border:2px solid black;
+		top:-40px;
+		margin-left:396px;
+		text-decoration:none;
+		color:White;
+		font-family:Verdana, sans-serif, arial, serif;
+		
+	}
+	
+	.farm a {
+		position:relative;
+		border:2px solid black;
+		top:-60px;
+		margin-left:574px;
+		text-decoration:none;
+		color:White;
+		font-family:Verdana, sanserif, arial, serif;
+	}
+	
+	#propaganda{
+		
+		border:1px solid green;
+		height:195px;
+		width:573px;
+		position:absolute;
+		top:75px;
+		margin-left:60px;
+	}
+	.propg  img{
+		height:195px;
+		width:573px;
+		position:relative;
+		border:2px solid black;
+		
+	}
+	#baixopre{
+		border:1px solid black;
+		height:15px;
+	}
+	.baixopro p{
+		color:black;
+		font-family:Arial;
+		font-size:16px;
+		margin:auto;
+		top:-10px;
+		font-weight: bold;
+	}
+	#promo{
+		border:1px solid black;
+		height:430px;
+		position:relative;
+		top:15px
+	}
+	
+
+	#rodape{
+		border:1px solid black;
+		height:173px;
+		width:800px;
+		position:relative;
+		top:475px;
+		margin-left:-117px;
+		
+	}
+	.borda img{
+		top:-10px;
+		position:relative;
+		
+	}
+	
+	.institucional p{
+		color:#FF0000;
+		position:relative;
+		top:-22px;
+		margin-left:32px;
+		font-family:sans-serif;
+	}
+	.sobrempresa a{
+		text-decoration:none;
+		color:#202020;
+		position:relative;
+		top:-52px;
+		margin-left:38px;
+		
+		
+	}
+	.faleconosco a{
+		text-decoration:none;
+		color:#202020;
+		position:relative;
+		top:-95px;
+		margin-left:38px;
+	}
+	
+	
+	.atendimento p{
+		text-decoration:none;
+		position:relative;
+		top:-194px;
+		color:#FF0000;
+		margin-left:222px;
+		font-family:sans-serif;
+	}
+	.tel img {
+		position:relative;
+		top:-192px;
+		margin-left:220px;
+	}
+	
+	.numtel p {
+		position:relative;
+		top:-228px;
+		margin-left:245px;
+		font-family:Arial;
+		font-size:14px;
+		color:#0099CC;
+		font-weight: bold;
+	}
+	
+	
+	span{
+		color:#0099CC;
+		font-size:16px;
+		font-family:arial;
+		font-weight: bold;
+	}
+	
